@@ -9,6 +9,7 @@ function App() {
      <div className="container">
       <Nav />
       <Home/>
+      </div>
 =======
 import React from 'react';
 import './App.css';
