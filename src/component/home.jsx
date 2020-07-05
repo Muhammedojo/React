@@ -3,8 +3,10 @@ import React from 'react'
 function Home() {
     return (
         <div>
-            <h1>Hello World!!!</h1>
-            <span>What do you think</span>
+            <h1><i>Welcome!!!</i></h1>
+            <span>How can we be of service </span>
+           
+            
         </div>
     );
 }
