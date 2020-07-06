@@ -9,7 +9,7 @@ import Footer from './component/Footer'
 function App() {
   return (
      <div className="container">
-        <Nav />
+        <Nav hello={5}/>
         <Home/>
         <Footer/>
       </div>   
